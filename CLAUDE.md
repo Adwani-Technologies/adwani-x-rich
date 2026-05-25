@@ -2,7 +2,7 @@
 
 ## FIRST THING EVERY SESSION
 1. Run `git config user.name` to find out who is currently working
-   - richardisho = Richie, corleoneshow = Jon
+   - richardisho = Richie, corleoneshow = Jon, Vlitruh = Joey
 2. Run `git pull` to get latest changes including any inbox messages
 3. Check `.claude/inbox/` for messages addressed to the current user — look for files matching `*-to-richie.md` (if Richie) or `*-to-jon.md` (if Jon). If any exist, display them clearly under a **Messages** header, then delete those files, commit, and push so the inbox stays clean.
 4. Run `git log --all --pretty=format:"%h %an: %s (%ar)" -30` to get recent history
@@ -19,6 +19,7 @@ A collaborative workspace between Rich (richardisho) and Jon (corleoneshow) for 
 ## Collaborators
 - **Jon Adwani** — corleoneshow on GitHub
 - **Rich Isho** — richardisho on GitHub, richardisho@gmail.com
+- **Joey** — Vlitruh on GitHub
 
 ## Repo Structure
 ```

@@ -2,8 +2,11 @@
 
 ## FIRST THING EVERY SESSION
 1. Run `git config user.name` to find out who is currently working
-2. Run `git log --all --pretty=format:"%h %an: %s (%ar)" -30` to get recent history
-3. Find the last commits made by the OTHER collaborator (not the current user) and give a brief 2-3 sentence summary of what they did and when. Even if it was weeks or months ago, always show the last thing they worked on. Keep it casual — just what changed and why it matters.
+   - richardisho = Richie, corleoneshow = Jon
+2. Run `git pull` to get latest changes including any inbox messages
+3. Check `.claude/inbox/` for messages addressed to the current user — look for files matching `*-to-richie.md` (if Richie) or `*-to-jon.md` (if Jon). If any exist, display them clearly under a **Messages** header, then delete those files, commit, and push so the inbox stays clean.
+4. Run `git log --all --pretty=format:"%h %an: %s (%ar)" -30` to get recent history
+5. Find the last commits made by the OTHER collaborator (not the current user) and give a brief 2-3 sentence summary of what they did and when. Even if it was weeks or months ago, always show the last thing they worked on. Keep it casual — just what changed and why it matters.
 
 ## What This Is
 A collaborative project between Richie (richardisho) and Jon (corleoneshow) to build and run an AI-generated influencer across Instagram, TikTok, Twitter, and OnlyFans. Image/video generation is done via ComfyUI with custom LoRAs.

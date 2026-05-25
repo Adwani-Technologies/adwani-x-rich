@@ -1,45 +1,60 @@
-# AI Influencer Project
+# Adwani x Rich
 
-Collaborative workspace for creating and managing an AI influencer across Instagram, TikTok, Twitter, and OnlyFans.
+Collaborative workspace for Jon and Rich's content and ecommerce projects.
 
-## Project Structure
+## Projects
 
-```
-ai-influencer-project/
-├── character/           # Character definition and style
-│   ├── style-guide.md   # Her look, personality, voice
-│   ├── reference-prompts.md  # Proven prompts that work
-│   └── lora-notes.md    # LoRA settings and versions
-├── workflows/           # ComfyUI workflow files
-│   ├── portrait-workflow.json
-│   ├── video-workflow.json
-│   └── README.md
-├── prompts/             # Prompt libraries
-│   ├── instagram-captions.md
-│   ├── image-prompts.md
-│   └── negative-prompts.md
-└── scripts/             # Automation scripts
-```
+| Project | Description | Platforms |
+|---------|-------------|-----------|
+| [AI Influencer](./ai-influencer/) | SFW AI-generated social media content | Instagram, TikTok, Twitter |
+| [Podcast Clips](./podcast-clips/) | Famous podcast clips for short-form content | YouTube Shorts, TikTok |
+| [TikTok Commerce](./tiktok-commerce/) | Product content and sales | TikTok Shop |
+| [Dropshipping](./dropshipping/) | Ecommerce stores | Shopify, etc. |
 
-## Shared Resources
-
-### Google Drive Structure
-Large files (images, videos, models) are stored in shared Google Drive:
+## Repository Structure
 
 ```
-AI Influencer/
-├── Generated Images/
-│   ├── Approved/        # Final, ready to post
-│   ├── Drafts/          # Work in progress
-│   └── Archive/         # Old/unused
-├── Generated Videos/
-│   ├── Approved/
-│   ├── Drafts/
-│   └── Raw Clips/
-├── Models/
-│   ├── LoRAs/
-│   └── Checkpoints/
-└── Reference/           # Inspiration, style refs
+adwani-x-rich/
+├── ai-influencer/           # AI Influencer project
+│   ├── character/           # Character definition and style
+│   ├── workflows/           # ComfyUI workflow files
+│   ├── prompts/             # Prompt libraries
+│   └── content-calendar.md
+├── podcast-clips/           # Podcast clip content
+│   ├── scripts/             # Editing scripts/templates
+│   ├── clip-ideas.md
+│   └── posting-schedule.md
+├── tiktok-commerce/         # TikTok product sales
+│   ├── products/
+│   ├── scripts/             # Video scripts
+│   └── content-calendar.md
+└── dropshipping/            # Dropshipping stores
+    ├── stores/              # Each store gets a subfolder
+    └── product-research.md
+```
+
+## Shared Resources — Google Drive
+
+Large files (images, videos, assets) are stored in shared Google Drive under "Adwani Technologies":
+
+```
+Adwani Technologies/
+├── AI Influencer/
+│   ├── Generated Images/
+│   ├── Generated Videos/
+│   └── Reference/
+├── Podcast Clips/
+│   ├── Raw Clips/
+│   ├── Edited/
+│   └── Posted/
+├── TikTok Commerce/
+│   ├── Product Photos/
+│   ├── Videos/
+│   └── Posted/
+└── Dropshipping/
+    ├── Product Images/
+    ├── Store Assets/
+    └── Supplier Info/
 ```
 
 **Drive Link:** https://drive.google.com/drive/folders/1fl7aoTQ5EK_FowpB90CoPVGT3XOA1Yki
@@ -48,8 +63,8 @@ AI Influencer/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/ai-influencer-project.git
-cd ai-influencer-project
+git clone https://github.com/corleoneshow/adwani-x-rich.git
+cd adwani-x-rich
 
 # After making changes
 git add .
@@ -60,21 +75,13 @@ git push
 git pull
 ```
 
-## Workflow
+## Key Rules
 
-1. Create/update ComfyUI workflow → push JSON to `workflows/`
-2. Generate images using workflow
-3. Upload approved images to Drive (`Generated Images/Approved/`)
-4. Update content calendar with what's ready to post
+- **NEVER commit** generated images, videos, or large files — use Google Drive
+- Pull before starting work (`git pull`)
+- Check project-specific READMEs for workflow details
 
 ## Collaborators
 
-- [Your Name]
-- Richard
-
-## Platforms
-
-- Instagram
-- TikTok
-- Twitter
-- OnlyFans
+- **Jon Adwani** (corleoneshow)
+- **Rich Isho** (richardisho)

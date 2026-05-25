@@ -1,0 +1,16 @@
+#!/bin/bash
+# Blocks accidental commits of images, videos, and model files
+
+FORBIDDEN=$(git diff --cached --name-only | grep -E '\.(png|jpg|jpeg|webp|gif|mp4|mov|avi|webm|safetensors|ckpt|pt|pth|bin|onnx)$')
+
+if [ -n "$FORBIDDEN" ]; then
+  echo ""
+  echo "ERROR: You're trying to commit files that belong on Google Drive:"
+  echo ""
+  echo "$FORBIDDEN" | sed 's/^/  /'
+  echo ""
+  echo "Unstage them with: git reset HEAD <file>"
+  echo "Then upload to the shared Drive folder instead."
+  echo ""
+  exit 1
+fi

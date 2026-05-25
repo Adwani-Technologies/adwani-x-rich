@@ -33,6 +33,17 @@ scripts/          # Automation (posting, scheduling, etc.)
 - Always pull before starting work (`git pull`)
 - Use pull requests — do not push directly to `main`
 
+## Branch Naming
+- `richie/feature-name` — Richie's branches
+- `jon/feature-name` — Jon's branches
+- `shared/feature-name` — collaborative features either person can work on
+
+## First-Time Setup (after cloning)
+Run once to install git hooks that block accidental image/video commits:
+```bash
+bash scripts/install-hooks.sh
+```
+
 ## Google Drive
 Shared folder: https://drive.google.com/drive/folders/1fl7aoTQ5EK_FowpB90CoPVGT3XOA1Yki
 

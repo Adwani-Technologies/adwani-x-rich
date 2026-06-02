@@ -85,5 +85,59 @@ Looking into platforms for:
 
 ---
 
+---
+
+## Platform Strategy
+
+### Traffic Sources (Ranked by $$$)
+1. **Snapchat** — "makes the most $$"
+   - Use Quick Add feature
+   - Spotlight is 50/50
+   - Takes ~2 days to start getting adds
+2. **TikTok** — main content driver
+3. **Twitter/X** — secondary traffic
+
+### Monetization Funnel
+```
+TikTok/Snap Content → Snap DMs → Fanvue/PayPal/Bitcoin
+```
+
+- **DMs are where you make money** — engage in messages
+- **PPV (Pay-per-view)** — most profitable content type
+- Pricing: ~$25 for PPV content
+
+### Payment Options
+| Method | Notes |
+|--------|-------|
+| **Fanvue** | Built-in payments, most legal/safe |
+| **PayPal** | Works but risky (can get banned) |
+| **CashApp** | US-focused |
+| **Bitcoin** | Best for anonymity |
+
+### Platform Setup
+- **Separate phone** recommended — avoid device bans
+- **OVF Editor** can trigger device bans on Snap
+- Snapchat accounts take ~2 days to start getting organic adds
+- Get verified in promo servers for exposure
+
+---
+
+## Content Tips
+
+### Making AI Look Real
+- Don't make skin "too clear" — add imperfections
+- Use Snapchat-style quality (see prompts above)
+- Natural facial asymmetry helps
+- Dirty Bunny doesn't keep audio on face swap — add audio separately
+
+### Content That Performs
+- POV girlfriend content
+- "Sugar daddy" engagement bait
+- GRWM (Get Ready With Me)
+- Relatable student content ("8 shots of espresso to study")
+- Day in my life vlogs
+
+---
+
 *Last updated: June 2, 2026*
 *Source: Saints Paid Academy Discord*

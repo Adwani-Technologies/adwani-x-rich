@@ -56,6 +56,131 @@ beautiful young latina woman, early 20s, olive skin, long black straight silky h
 
 ---
 
+## Mirror Selfies
+
+### Bedroom Mirror - Casual
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, center part, dark brown almond eyes, soft freckles, full lips, minimal makeup, wearing oversized t-shirt and shorts, bedroom mirror selfie, holding phone, natural morning light from window, messy bed in background, candid relaxed vibe, instagram aesthetic, photorealistic, ultra detailed
+```
+
+### Bedroom Mirror - Going Out
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair styled sleek, dark brown almond eyes, soft freckles, full lips, soft glam makeup, wearing tight black mini dress, gold jewelry, bedroom mirror selfie, holding phone, warm bedroom lighting, getting ready to go out, confident pose, instagram influencer aesthetic, photorealistic, 8k
+```
+
+### Gym Mirror
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair in sleek ponytail, dark brown almond eyes, soft freckles, full lips, minimal makeup, wearing matching workout set sports bra and leggings, gym mirror selfie, holding phone, gym lighting, fitness aesthetic, toned body, confident expression, photorealistic, sharp focus
+```
+
+### Bathroom Mirror - Soft Glam
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, center part, dark brown almond eyes, soft freckles, full lips, soft glam makeup, wearing white robe or towel, luxury bathroom mirror selfie, marble countertop, soft lighting, fresh and clean aesthetic, holding phone, relaxed expression, photorealistic, ultra detailed
+```
+
+---
+
+## Going Out / Night Life
+
+### Club Night
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, dark brown almond eyes, soft freckles, full lips, glam makeup with smoky eyes, wearing sexy black bodycon dress, gold hoop earrings, nightclub setting, neon lights, confident pose, holding drink, night out aesthetic, party vibe, photorealistic, ultra detailed
+```
+
+### Dinner Date
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, dark brown almond eyes, soft freckles, full lips, soft glam makeup, wearing elegant off-shoulder dress in nude or burgundy, sitting at upscale restaurant table, candlelight, wine glass, romantic dinner setting, soft smile, warm ambient lighting, date night aesthetic, photorealistic, 8k
+```
+
+### Rooftop Bar
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair blowing slightly, dark brown almond eyes, soft freckles, full lips, soft glam makeup, wearing chic cocktail dress, rooftop bar at night, city skyline background, string lights, holding cocktail, glamorous nightlife, confident pose, photorealistic, ultra detailed
+```
+
+### Girls Night Out
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, dark brown almond eyes, soft freckles, full lips, glam makeup, wearing sparkly top and jeans, bar or lounge setting, warm lighting, laughing candid expression, having fun, night out with friends vibe, lifestyle photography, photorealistic
+```
+
+---
+
+## Beach / Pool / Bikini
+
+### Pool Selfie
+```
+beautiful young latina woman, early 20s, olive skin with sun glow, long black straight silky hair wet and slicked back, dark brown almond eyes, soft freckles, full lips, minimal makeup, wearing white bikini, in luxury pool, blue water, poolside selfie, sunny day, summer vibes, wet skin glistening, relaxed expression, photorealistic, ultra detailed
+```
+
+### Beach Sunset Standing
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair blowing in wind, dark brown almond eyes, soft freckles, full lips, minimal natural makeup, wearing black bikini, standing on beach, golden hour sunset, ocean waves in background, full body shot, hand in hair pose, beach goddess aesthetic, warm lighting, photorealistic, 8k
+```
+
+### Poolside Lounging
+```
+beautiful young latina woman, early 20s, olive skin with tan, long black straight silky hair, dark brown almond eyes, soft freckles, full lips, minimal makeup, wearing colorful bikini, lying on pool lounger, luxury resort pool, sunglasses pushed up on head, relaxed pose, summer vacation vibes, bright sunny day, lifestyle photography, photorealistic
+```
+
+### Beach Candid Walking
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair windswept, dark brown almond eyes, soft freckles, full lips, natural glowing skin, wearing beige bikini and sarong wrap, walking on beach, turquoise ocean water, tropical paradise, candid mid-stride, carefree expression, golden hour, travel influencer aesthetic, photorealistic, ultra detailed
+```
+
+### Bikini Mirror Selfie
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, center part, dark brown almond eyes, soft freckles, full lips, minimal makeup, wearing trendy bikini, hotel room mirror selfie, beach vacation setting, holding phone, confident pose, summer body aesthetic, natural lighting, instagram influencer style, photorealistic
+```
+
+---
+
+## Car Selfies
+
+### Daytime Car Selfie
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, center part, dark brown almond eyes, soft freckles, full lips, soft natural makeup, sitting in car driver seat, daytime, natural sunlight through window, casual selfie angle, soft smile, luxury car interior, relaxed vibe, candid moment, photorealistic, ultra detailed
+```
+
+### Night Car Selfie
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, dark brown almond eyes, soft freckles, full lips, soft glam makeup, sitting in car, nighttime, warm ambient car lighting, city lights through window, selfie angle, peace sign or soft pose, going out aesthetic, photorealistic, 8k
+```
+
+### Parked Car OOTD
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, center part, dark brown almond eyes, soft freckles, full lips, soft glam makeup, sitting in parked car with door open, showing outfit, one leg out of car, casual chic outfit, sunny day, candid influencer content, lifestyle photography, photorealistic
+```
+
+---
+
+## Travel / Lifestyle
+
+### Luxury Hotel Room
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, center part, dark brown almond eyes, soft freckles, full lips, natural makeup, wearing silk pajamas or robe, luxury hotel room, city view through large window, holding coffee cup, morning light, travel lifestyle aesthetic, aspirational content, photorealistic, ultra detailed
+```
+
+### Airplane Window
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, dark brown almond eyes, soft freckles, full lips, minimal makeup, casual chic travel outfit, sitting by airplane window, clouds visible outside, cozy blanket, travel pillow, relaxed expression, jet setter aesthetic, natural lighting, photorealistic
+```
+
+### European Street
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, center part, dark brown almond eyes, soft freckles, full lips, soft natural makeup, wearing chic summer dress and sunglasses, walking on European cobblestone street, cafe in background, travel photography, candid walking shot, golden hour, wanderlust aesthetic, photorealistic, 8k
+```
+
+### Tropical Resort
+```
+beautiful young latina woman, early 20s, olive skin with sun glow, long black straight silky hair, dark brown almond eyes, soft freckles, full lips, minimal glowing makeup, wearing flowy white sundress, tropical resort setting, palm trees, infinity pool in background, ocean view, luxury vacation vibes, relaxed happy expression, paradise aesthetic, photorealistic, ultra detailed
+```
+
+### Brunch Aesthetic
+```
+beautiful young latina woman, early 20s, olive skin, long black straight silky hair, center part, dark brown almond eyes, soft freckles, full lips, soft natural makeup, wearing cute brunch outfit, sitting at trendy cafe, aesthetic food and drinks on table, natural daylight, lifestyle content, candid moment, instagram aesthetic, photorealistic
+```
+
+---
+
 ## Pose Library
 
 ### Selfie Poses (Her Bread & Butter)
